@@ -1,0 +1,33 @@
+@charset "utf-8";
+#principal{
+        background-color: silver;
+        width: 900px;
+    }
+body{
+    background: silver url(fundo.png);
+    font:  Arial, Helvetica, sans-serif ;
+}
+#menu{
+    background-color: silver;
+    padding: 15px;
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+#conteudo{
+    background-color: white;
+    padding: 15px;
+}
+.rodape{
+    text-align: center;
+}
+h1{
+    color: #4b566a;
+    font-size: 1.2em;
+}
+.imagens-campanha{
+border:10px solid silver;
+}
